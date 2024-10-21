@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://ohadomrad570.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://ohadomrad570.github.io/task-management-frontend/static/js/main.358e9cee.chunk.js",
+    "main.js.map": "https://ohadomrad570.github.io/task-management-frontend/static/js/main.358e9cee.chunk.js.map",
+    "runtime~main.js": "https://ohadomrad570.github.io/task-management-frontend/static/js/runtime~main.4e8bbaa0.js",
+    "runtime~main.js.map": "https://ohadomrad570.github.io/task-management-frontend/static/js/runtime~main.4e8bbaa0.js.map",
+    "static/js/2.e4ae9c54.chunk.js": "https://ohadomrad570.github.io/task-management-frontend/static/js/2.e4ae9c54.chunk.js",
+    "static/js/2.e4ae9c54.chunk.js.map": "https://ohadomrad570.github.io/task-management-frontend/static/js/2.e4ae9c54.chunk.js.map",
+    "index.html": "https://ohadomrad570.github.io/task-management-frontend/index.html",
+    "precache-manifest.34d419bbed7b63645b1ca563a4937848.js": "https://ohadomrad570.github.io/task-management-frontend/precache-manifest.34d419bbed7b63645b1ca563a4937848.js",
+    "service-worker.js": "https://ohadomrad570.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://ohadomrad570.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
