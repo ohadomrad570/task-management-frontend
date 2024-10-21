@@ -6,6 +6,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Set up Node.js 12
+        uses: actions/setup-node@v2
+        with:
+          node-version: '12'
+
       - name: Git Checkout
         uses: actions/checkout@v2
 
